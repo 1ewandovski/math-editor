@@ -191,6 +191,7 @@ class My_Main_window(QtWidgets.QMainWindow):
         self.menu3.addAction(self.menu_action1)
         self.menu3.addAction(self.menu_action2)
         self.menu3.addAction(self.menu_action3)
+        self.menu3.addAction(self.feed_Act)
         
         #tools
         self.toolbar = self.addToolBar('Tools')
