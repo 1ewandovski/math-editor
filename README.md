@@ -52,3 +52,5 @@ ctrl + d 刷新显示
 ctrl + t 撤销
 
 ctrl + c 清除
+
+ctrl + a 换行
